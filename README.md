@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Full stack web app**
 
-- 🤝 I’m looking for help with **C# prjects**
+- 🤝 I’m looking for help with **C# projects**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Development and Anime or Skateboarding**
 
 - 📫 How to reach me **engineerhanif26@yahoo.com**
 

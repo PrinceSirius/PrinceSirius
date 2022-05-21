@@ -1,7 +1,6 @@
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
- <iframe src="https://giphy.com/embed/YWB6Hi29vA3jG" width="480" height="261" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-YWB6Hi29vA3jG">via GIPHY</a></p>
-</div>
+<img hight="300" width="700" alt="GIF" align="center" src="https://giphy.com/embed/YWB6Hi29vA3jG">
+
 
 </br>
 </br>

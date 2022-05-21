@@ -42,6 +42,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png" alt="react" width="100" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/python.png" alt="Python" width="130" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/languages/csharp.png" alt="CSharp" width="130" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 </br>
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">

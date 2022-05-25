@@ -7,19 +7,20 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - My name is AL-Zumar Gibson Full stack engineer based out of Charlotte NC.
+i'm very passionate about my craft and anime!! Dm to talk about anime or coding!!!
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
+- ✨ Full stack development 
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
 
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Fitness
+- ✨ Researching interesting or random things.
 
 </br>
 </br>

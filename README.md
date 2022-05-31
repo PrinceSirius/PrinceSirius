@@ -10,7 +10,7 @@
 ### - My name is AL-Zumar Gibson Full stack engineer based out of Charlotte NC.
 i'm very passionate about my craft and anime!! Dm to talk about anime or coding!!!
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Full stack development 
